@@ -1,0 +1,148 @@
+- 
+  id: 0
+  name: "Nontokozo"
+  surname: "Mpofu"
+  title: "General Chair"
+  thumbnailUrl: VitaliyZasadnyy.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GC", title: "General Chair"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
+    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
+    - {name: "github", link: "https://github.com/zasadnyy"}
+    - {name: "site", link: "http://zasadnyy.com/"}
+- 
+  id: 1
+  name: "Elaine"
+  surname: "Nsoesie"
+  title: "Program Chair"
+  thumbnailUrl: OlehZasadnyy.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
+    - {name: "github", link: "https://github.com/ozasadnyy"}
+- 
+  id: 2
+  name: "Tapiwa"
+  surname: "Gundu"
+  title: "Summer School"
+  thumbnailUrl: OstapAndrusiv.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
+    - {name: "twitter", link: "https://twitter.com/p1f"}
+    - {name: "site", link: "http://andrusiv.com/"}
+- 
+  id: 4
+  name: "Silas"
+  surname: "Verkijika"
+  title: "Summer School"
+  thumbnailUrl: DmytroDanylyk.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+- 
+  id: 5
+  name: "Alfred"
+  surname: "Mwanza"
+  title: "Summer School"
+  thumbnailUrl: ValentynShybanov.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "site", link: "http://olostan.name/"}
+- 
+  id: 6
+  name: "Colin"
+  surname: "Chibaya"
+  title: "Workshop Chair"
+  thumbnailUrl: ValentynShybanov.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "site", link: "http://olostan.name/"}
+- 
+  id: 7
+  name: "Albert"
+  surname: "Whata"
+  title: "Field Work"
+  thumbnailUrl: ValentynShybanov.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "site", link: "http://olostan.name/"}
+- 
+  id: 8
+  name: "Kudakwashe"
+  surname: "Madzima"
+  title: "Field Work"
+  thumbnailUrl: ValentynShybanov.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "site", link: "http://olostan.name/"}
+- 
+  id: 9
+  name: "Fezile"
+  surname: "Matsebula"
+  title: "Social Media and Communications"
+  thumbnailUrl: ValentynShybanov.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "site", link: "http://olostan.name/"}
+- 
+  id: 10
+  name: "Tumo"
+  surname: "Baitshenyetsi"
+  title: "Local Assistance"
+  thumbnailUrl: ValentynShybanov.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "site", link: "http://olostan.name/"}
+- 
+  id: 11
+  name: "Eva"
+  surname: "Mamabolo"
+  title: "Local Assistance"
+  thumbnailUrl: ValentynShybanov.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "site", link: "http://olostan.name/"}
+- 
+  id: 12
+  name: "Alfred"
+  surname: "Mwanza"
+  title: "Local Assistance"
+  thumbnailUrl: ValentynShybanov.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "site", link: "http://olostan.name/"}
